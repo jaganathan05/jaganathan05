@@ -14,5 +14,5 @@
 - Design interactive UI/UX with FlutterFlow & modern frameworks  
 
 ## 🌍 Let's Connect!  
-- 🔗 [LinkedIn](#)  
+- 🔗 [LinkedIn](https://in.linkedin.com/in/jaganathan-v-467497242)  
 - 🌐 [Portfolio](#)  
