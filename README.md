@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Jaganathan
+🚀 Full-Stack Developer | Cloud Enthusiast | UI/UX Explorer  
 
-<!--
-**jaganathan05/jaganathan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack  
+- **Frontend:** React, Redux, MUI, Bootstrap, FlutterFlow  
+- **Backend:** Node.js, Express  
+- **Databases:** MongoDB, MySQL, PostgreSQL  
+- **Cloud & DevOps:** AWS (EC2, S3, RDS), Docker, Nginx  
 
-Here are some ideas to get you started:
+## 📌 What I Do  
+- Build scalable web applications with React & Node.js  
+- Architect backend solutions with Express & SQL/NoSQL databases  
+- Optimize deployments using AWS & Docker  
+- Design interactive UI/UX with FlutterFlow & modern frameworks  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Let's Connect!  
+- 🔗 [LinkedIn](#)  
+- 🌐 [Portfolio](#)  
